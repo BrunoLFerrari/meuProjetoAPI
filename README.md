@@ -15,7 +15,7 @@ npm install -g typescript prisma
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone [URL_DO_SEU_REPOSITÓRIO]
+git clone [https://github.com/BrunoLFerrari/meuProjetoAPI.git]
 cd meuProjetoAPI
 npm install
 ```
